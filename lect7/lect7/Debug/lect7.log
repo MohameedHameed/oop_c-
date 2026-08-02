@@ -1,0 +1,7 @@
+﻿  Circule.cpp
+C:\Users\admin\source\repos\lect7\lect7\Circule.cpp(10,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Rectangle.cpp
+  Shape.cpp
+  Source.cpp
+  Generating Code...
+  lect7.vcxproj -> C:\Users\admin\source\repos\lect7\Debug\lect7.exe
